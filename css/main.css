@@ -33,7 +33,8 @@
   font-size: 30px;
   color: #000;
   font-family: Frutiger-bold;
-  margin-top: 56px
+  margin-top: 56px;
+  text-transform: uppercase;
 }
 
 .page-404 .back-home {
